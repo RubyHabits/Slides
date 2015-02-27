@@ -1,5 +1,5 @@
 # Slides
-Hi everyone! We'll be adding the slides presented during our sessions at Ruby Habits here. Please let us know what you think, where we can improvie and what you'd like to see next time!
+Hi everyone! We'll be adding the slides presented during our sessions at Ruby Habits here. Please let us know what you think, where we can improve and what you'd like to see next time!
 
 ___
 
